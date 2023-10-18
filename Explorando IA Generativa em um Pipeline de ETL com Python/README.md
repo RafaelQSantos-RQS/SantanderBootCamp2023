@@ -1,4 +1,4 @@
-# SantanderBootCamp2023
+# Explorando IA Generativa com um Pipeline ETL com Python
  Este é um notebook feito para cumprir com o desafio de explorar IA generativa em um pipeline com Python.
 
 ## Tecnologias usadas
